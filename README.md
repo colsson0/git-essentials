@@ -1,7 +1,2 @@
-# git-essentials
-# lots of notes
-lorem ipsum stuff
-# more notes
-more lorem ipsum
-# Some new stuff in the readme
-lorem ipsum
+# Git Essentials / Git for Everybody
+This is a sample project to experiemnt
