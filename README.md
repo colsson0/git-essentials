@@ -1,7 +1,2 @@
-# git-essentials
-# lots of notes
-lorem ipsum stuff
-# more notes
-more lorem ipsum
-# Some new stuff in the readme
-lorem ipsum
+# Git Essentials
+This is a small project to sample how git and GitHub work.
