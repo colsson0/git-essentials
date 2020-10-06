@@ -1,2 +1,2 @@
-# Git Essentials / Git for Everybody
-This is a sample project to experiemnt
+# Git Essentials
+This is a small project to sample how git and GitHub work.
